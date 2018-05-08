@@ -31,8 +31,8 @@
 
 	<div class="limiter">
 		<div class="container-table100">
-			<div class="wrap-table100" style="margin-top:-400px">
-				<div class="table100 ver1">
+			<div class="wrap-table100">
+				<div class="table100 ver1 m-b-110">
 					<table data-vertable="ver1">
 						<thead>
 							<tr class="row100 head">
