@@ -16,5 +16,5 @@
 // });
 Route::get('/','ClientsController@index')->name('index');
 //for client model
-Route::resource('client', 'ClientsController');
+Route::resource('clients', 'ClientsController');
 Route::post('client/save', ['as' => 'form_url', 'uses' => 'ClientsController@save_data']);
